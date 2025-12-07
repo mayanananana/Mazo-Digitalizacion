@@ -1,0 +1,40 @@
+#separator:tab
+#html:true
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"	"<div>No se ha encontrado ninguna respuesta anidada número ⁨1⁩ en la tarjeta.
+Por favor, añade una o utiliza la herramienta “Tarjetas vacías”.<br><a href='https://docs.ankiweb.net/templates/errors.html#no-cloze-filter-on-cloze-note-type'>Más información</a></div>"
+Lenguajes importantes en IA	Los lenguajes más utilizados en IA son Python, R, C++ y Java, porque cubren todo el ciclo de trabajo: <br>- Prototipado rápido (Python)<br>- Análisis estadístico (R)<br>- Optimización de bajo nivel (C++)<br>- Despliegue robusto en entornos empresariales (Java).
+Ciclo técnico Big Data ↔ IA	1. Big Data alimenta a la IA con datos masivos. <br>2. IA entrena modelos y genera predicciones/insights. <br>3. Las predicciones alimentan nuevas bases de datos. <br>4. El ciclo se repite, mejorando continuamente los modelos.
+Stack tecnológico de un proyecto de IA	Lenguaje de programación, librerías de machine learning, frameworks de deep learning, entornos de ejecución, bases de datos, Big Data, herramientas de despliegue.
+¿Por qué Python es el lenguaje dominante en IA?	"<div>Por su <strong>sintaxis sencilla</strong> y su <strong>ecosistema completo de librerías y frameworks</strong>:</div>
+<ul>
+<li>
+<div><strong>TensorFlow</strong> y <strong>PyTorch</strong> → deep learning</div>
+</li>
+<li>
+<div><strong>scikit-learn</strong> → machine learning clásico</div>
+</li>
+<li>
+<div><strong>NumPy y pandas</strong> → manipulación y análisis de datos<br></div></li></ul>"
+¿Qué criterio técnico hace que un lenguaje sea adecuado para IA?	Disponibilidad de librerías, velocidad de desarrollo, rendimiento en ejecución, integración con Big Data.
+¿Cuál es la diferencia fundamental entre 'automatización' y 'optimización' al aplicar IA en un negocio? (CE 4.A)	<b>Automatización:</b> Implica hacer una tarea repetitiva más rápido y sin intervención humana (ej. copiar datos de un PDF a Excel).<br><b>Optimización:</b> Implica usar IA para encontrar la <i>mejor</i> manera de realizar un proceso para maximizar el resultado, no solo la velocidad (ej. rediseñar una ruta logística para ahorrar combustible basándose en el tráfico en tiempo real).
+¿Cómo se relacionan Big Data, IA y la rentabilidad empresarial? (CE 4.B)	El <b>Big Data</b> es el combustible (datos masivos), la <b>IA</b> es el motor que procesa esos datos para encontrar patrones invisibles al ojo humano.<br>Esto impacta la <b>rentabilidad</b> al permitir decisiones <i>Data-Driven</i>: predecir la demanda (ahorro de stock), personalizar ofertas (más ventas) y reducir errores operativos.
+Caso de estudio real: ¿Cómo mejora la IA la rentabilidad en el sector bancario/fintech? (Sub-tarea)	Mediante la <b>Detección de Fraude</b>.<br>En lugar de revisiones manuales, modelos de Machine Learning analizan transacciones en milisegundos. Al bloquear fraudes antes de que ocurran, se evita la pérdida directa de dinero y costes legales, impactando directamente en el margen de beneficio neto (Bottom Line).
+¿Por qué la IA se considera una inversión estratégica a largo plazo y no una 'moda'? (CE 4.C)	Porque la IA genera un <b>efecto de interés compuesto</b> (ventaja competitiva defendible).<br>A diferencia del software tradicional, los modelos de IA aprenden con el tiempo: cuantos más datos procesan, más precisos se vuelven. Quien no empiece hoy, tendrá una desventaja tecnológica insalvable en el futuro (la brecha de datos).
+¿Cuáles son las dos vías principales por las que la IA justifica su ROI (Retorno de Inversión)? (Síntesis)	1. <b>Eficiencia (Reducción de Costes):</b> Automatizar tareas de bajo valor (chatbots, procesamiento de facturas).<br>2. <b>Eficacia (Generación de Ingresos):</b> Crear nuevo valor (sistemas de recomendación, predicción de fuga de clientes o <i>churn</i>).
+¿Qué papel juega la IA en la escalabilidad de un modelo de negocio?	La IA permite <b>desacoplar el crecimiento de los ingresos del crecimiento de la plantilla</b>.<br>Permite atender a 10.000 clientes con la misma calidad que a 100, manteniendo los costes marginales cerca de cero (ej. atención al cliente automatizada o personalización masiva).
